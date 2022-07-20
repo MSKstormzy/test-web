@@ -1,5 +1,5 @@
-var num = 'click me'
-var str = 'hello'
+var num = 'click me';
+var str = 'hello';
 
 document.getElementById('text').innerHTML = num;
 document.getElementById('text').addEventListener('click', function(){
